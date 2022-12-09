@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-validator": "^6.14.2",
+    "js": "^0.1.0",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.3.3",
+    "node": "^19.2.0",
+    "node-v": "^0.1.0",
+    "nodemon": "^2.0.20"
+  },
+  "name": "proyectonegociosweb3",
+  "description": "## Instalación * Clonar repositorio en una carpeta en htdocs o www segun el servidor web * Instalar composer [https://getcomposer.org] * Instalar las dependencias en la misma carpeta donde esta composer.json     ``` php composer.phar install ```     ``` composer install ``` * Copiar el archivo ```renameTo_parameters.env``` a ```parameters.env``` y actualizar los valores segun sus parámetros * En un navegar ir al proyecto con ```index.php?page=index``` * Para generar  ## Pasos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
